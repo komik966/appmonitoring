@@ -1,0 +1,5 @@
+rpush books '{ "title": "Introduction to Algorithms", "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein" }'
+rpush books '{ "title": "UNIX and Linux System Administration Handbook", "author": "Trent R. Hein, Evi Nemeth, Garth Snyder, Ben Whaley, Dan Mackin" }'
+rpush books '{ "title": "Patterns of Enterprise Application Architecture", "author": "Martin Fowler" }'
+rpush books '{ "title": "Principles of Concurrent and Distributed Programming", "author": "M. Ben-Ari" }'
+rpush books '{ "title": "Database System Concepts", "author": "Silberschatz Abraham , Korth Henry F. , Sudarshan S." }'

@@ -1,0 +1,5 @@
+[defaults]
+url=http://localhost:9000
+org=sentry
+[auth]
+token=6438ed35cb90446eaf7bd6620ac752b01bccd8aa10e64f5390d27c1f934e0b2d
